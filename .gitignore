@@ -1,0 +1,45 @@
+#################
+# Unnecessary   #
+#################
+
+#Ignore MSVC output
+Release/
+Debug/
+
+#Ignore large project metadata
+Project1.sdf
+Project1.v11.suo
+
+
+#################
+# Omitted Files #
+#################
+
+#Do not include frozboards source (contains sensitive submission info)
+frozboards/
+
+#Do not include gui.cpp, easy to remove dependancies on omitted sensitive info
+gui.cpp
+
+#Unused files in stable branch
+connection.cpp
+connection.h
+
+#Do not show offline patch
+offline.h
+
+#Do not show remove daily
+remove_daily.cpp
+
+
+
+#Do not show watermark patch
+watermark.h
+
+#Do not show shop contents patch (contains info about shop watermark)
+shop_contents_patch.h
+shop_contents_patch.cpp
+
+#Update server should be confidential
+updates.cpp
+updates.h
