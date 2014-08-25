@@ -1,8 +1,8 @@
-# <img src="froz.png"/>  Frozlunky #
+# <img src="http://sashavol.com/frozlunky/froz.png"/>  Frozlunky #
 ####Seeds and more for Spelunky HD!
 <strong>Frozlunky forcefully disables score submission during use.</strong> <br/>
 
-<img src="gui.png"/>  
+<img src="http://sashavol.com/frozlunky/gui.png"/>  
 
 
 ### <a id="frozlunky-download" href="https://www.dropbox.com/s/qin19xqzhr6wli7/Frozlunky.exe">Download Frozlunky 1.8b (08/23/2014)</a>
@@ -117,5 +117,5 @@
 <code>02/28/2014 - 1.0a: Initial release</code>
 
 #### Example of Special Seed
-<img src="example.png"/>
+<img src="http://sashavol.com/frozlunky/example.png"/>
 <i>Developed by [Sashavol](https://twitter.com/sashavolv2)</i>
