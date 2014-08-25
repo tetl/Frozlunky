@@ -117,5 +117,5 @@
 <code>02/28/2014 - 1.0a: Initial release</code>
 
 #### Example of Special Seed
-<img src="http://sashavol.com/frozlunky/example.png"/>
+<img src="http://sashavol.com/frozlunky/example.png"/><br/>
 <i>Developed by [Sashavol](https://twitter.com/sashavolv2)</i>
